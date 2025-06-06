@@ -15,6 +15,7 @@ h1 {
     margin: 20px;
     color: rgb(228, 237, 221);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: rgb(115, 131, 117) 1px 1px 2px;
 }
 
 img {
@@ -28,6 +29,7 @@ article
     border: 3px solid rgb(74, 105, 73);
     padding: 20px;
     margin: 20px;
+    box-shadow: rgb(115, 131, 117) 1px 1px 2px;
 }
 
 p {
