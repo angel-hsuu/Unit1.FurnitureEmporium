@@ -2,10 +2,12 @@ h2 {
     background-color:rgb(249, 249, 234);
     color: rgb(50, 87, 40);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 h1 {
     color: rgb(97, 82, 82);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 .descriptionban {
@@ -16,11 +18,13 @@ h1 {
     color: rgb(228, 237, 221);
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: rgb(115, 131, 117) 1px 1px 2px;
+    text-align: center;
 }
 
 img {
     width: 45%;
     height: auto;
+    text-align: center;
 }
 
 article
@@ -30,6 +34,7 @@ article
     padding: 20px;
     margin: 20px;
     box-shadow: rgb(115, 131, 117) 1px 1px 2px;
+    text-align: center;
 }
 
 p {
@@ -37,6 +42,7 @@ p {
     line-height: 1.5;
     color: rgb(70, 93, 70);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
 
 * {background-color: rgb(249, 247, 236);}
@@ -53,5 +59,5 @@ button {
 
 .intro {
     font-size: 19px;
-    margin-left: 33px;
+    text-align: center;
 }
