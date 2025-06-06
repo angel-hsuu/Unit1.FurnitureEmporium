@@ -50,3 +50,8 @@ button {
     cursor: pointer;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.intro {
+    font-size: 19px;
+    margin-left: 33px;
+}
